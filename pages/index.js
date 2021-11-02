@@ -162,8 +162,7 @@ export default function Home() {
       </Head>
       {showResult===false ? <>
         <h1>Spiritual Gift Test</h1>
-        <p>Cara menjawab: <br />
-          Pilih salah satu angka yang paling sesuai dengan kondisi kita saat ini<br />
+        <p>Pilih salah satu angka yang paling sesuai dengan kondisi kita saat ini<br />
           0 : tidak pernah<br />
           1 : pernah sekali / sangat jarang<br />
           2 : kadang - kadang<br />
